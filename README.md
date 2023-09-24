@@ -16,11 +16,11 @@ The structure of the relational database is a list of rooms with devices in the 
 
 I developed this software using the VSCode IDE. 
 
-I used Python and sqlLite to develop this software.
+I used Python and sqLite to develop this software.
 
 # Useful Websites
 
-- [sqlLite Tutorial](https://www.sqlitetutorial.net/)
+- [sqLite Tutorial](https://www.sqlitetutorial.net/)
 - [w3schools SQL Tutorial](https://www.w3schools.com/sql/)
 
 # Future Work
