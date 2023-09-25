@@ -4,7 +4,8 @@ This software is a program that utilizes SQL Relational Databases to manage the 
 
 My purpose for creating this software is to familiarize myself with how SQL Relational Databases function. I wanted to learn the basics of how they work, and create a functioning program utilizing this technology. 
 
-[Software Demo Video](https://www.youtube.com/watch?v=SZdBkulonV8)
+[Software Walkthrough Video](https://www.youtube.com/watch?v=SZdBkulonV8)
+[Software Demo Video](https://www.youtube.com/watch?v=8iJ8zJFeb7Q)
 
 # Relational Database
 
